@@ -13,8 +13,7 @@ import br.org.generation.aejames.model.UsuarioLogin;
 import br.org.generation.aejames.repository.UsuarioRepository;
 
 
-
-			//* Classe responsavel por controlar meu usuario, tanto colo logar, como cadastro, armazena no bd o login e cria a token de permissao.
+//* Classe responsavel por controlar meu usuario, tanto colo logar, como cadastro, armazena no bd o login e cria a token de permissao.
 
 @Service
 public class UsuarioService {
